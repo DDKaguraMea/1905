@@ -673,3 +673,4 @@ struct.unpack(fmt,bytes_data)
 
 ![](img/4_struct.png)
 'test2'
+'thread and process are vital operation in programming'

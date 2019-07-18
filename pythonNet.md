@@ -672,3 +672,4 @@ struct.unpack(fmt,bytes_data)
 >说明： 可以使用struct模块直接调用pack unpack。此时这两函数第一个参数传入fmt。其他用法功能相同
 
 ![](img/4_struct.png)
+'test2'
